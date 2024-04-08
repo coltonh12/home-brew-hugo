@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/coltonhyer/Desktop/home-brew-hugo/starship",
+	"sourceRoot": "/Users/coltonhyer/desktop/home-brew-hugo/starship",
 	"sources": [
 		"ananke/css/main.css"
 	],
